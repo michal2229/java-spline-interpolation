@@ -1,6 +1,6 @@
 # java-spline-interpolation
 
-Java application to draw spline interpolation between given points, written during my Numerical Methods II classes at military University of Technology.
+Java application to draw spline interpolation between given points, written during my Numerical Methods II classes at Military University of Technology.
 
 It presents a plot of base points and interpolation splines. 
 
